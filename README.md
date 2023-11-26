@@ -1,8 +1,8 @@
-Privacy Policy for "Magnet Polarity Detector" App
+Privacy Policy for "Baby Gender - Chinese calendar" App
 
-Effective Date: [2023-06-01]
+Effective Date: [2023-11-26]
 
-Our "Magnet Polarity Detector" app (referred to as "the App") respects and protects the privacy of its users. This Privacy Policy explains how we collect, use, and disclose information when you use our App.
+Our "Baby Gender - Chinese calendar" app (referred to as "the App") respects and protects the privacy of its users. This Privacy Policy explains how we collect, use, and disclose information when you use our App.
 
 Information Collection and Use:
 
@@ -28,8 +28,8 @@ Contact Us:
 
 If you have any questions or concerns about this Privacy Policy or the App's privacy practices, please contact us at [fn.nicu@gmail.com].
 
-By using the "Magnet Polarity Detector" App, you agree to the collection and use of information as outlined in this Privacy Policy.
+By using the "Baby Gender - Chinese calendar" App, you agree to the collection and use of information as outlined in this Privacy Policy.
 
 This Privacy Policy is subject to the laws and regulations applicable in your jurisdiction.
 
-Last updated: [2023-06-02]
+Last updated: [2023-11-26]
