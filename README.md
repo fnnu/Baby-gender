@@ -8,9 +8,8 @@ Information Collection and Use:
 
 Advertisements: The App displays advertisements from third-party ad networks, such as Google AdMob, to provide a free user experience. These ad networks may collect certain information to deliver targeted ads. We do not directly collect any personal information through these ads.
 
-Data Security:
 
-We take reasonable measures to protect the information collected through the App. However, please note that no method of transmission or storage is 100% secure. We cannot guarantee the absolute security of your information.
+Data Security: The personal user data entered/requested in application (date of birth, date of conception) are processed “ephemerally” (locally) in the process of predicting the gender of the baby, they are not stored nor are they transmitted outside the application.
 
 
 Children's Privacy:
