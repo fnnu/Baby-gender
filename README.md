@@ -8,9 +8,6 @@ Information Collection and Use:
 
 Advertisements: The App displays advertisements from third-party ad networks, such as Google AdMob, to provide a free user experience. These ad networks may collect certain information to deliver targeted ads. We do not directly collect any personal information through these ads.
 
-
-Permissions: The App may require certain permissions to access device features, such as the magnetic sensor, necessary for the proper functioning of the App. We do not use these permissions to collect personal information.
-
 Data Security:
 
 We take reasonable measures to protect the information collected through the App. However, please note that no method of transmission or storage is 100% secure. We cannot guarantee the absolute security of your information.
@@ -32,4 +29,4 @@ By using the "Baby Gender - Chinese calendar" App, you agree to the collection a
 
 This Privacy Policy is subject to the laws and regulations applicable in your jurisdiction.
 
-Last updated: [2023-11-26]
+Last updated: [2023-12-03]
